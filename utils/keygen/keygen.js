@@ -9,8 +9,8 @@ const CHARS = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
 /**
  * @private
- * @description Длинная массива CHARS
- * @see {@link CHARS}
+ * @description Длина массива CHARS
+ * @see CHARS
  * @type {Number}
  * @const
  */
