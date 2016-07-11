@@ -1,0 +1,17 @@
+{
+  "name": "CssObfuscator",
+  "version": "1.0.0",
+  "description": "Css class name obfuscator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha utils/**/*.test.js index.test.js",
+    "lint": "eslint utils/**/*.js index.js"
+  },
+  "author": "Gilfanov Ildar",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^6.1.2",
+    "chai": "^3.5.0",
+    "eslint": "^3.0.1"
+  }
+}
